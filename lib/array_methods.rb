@@ -5,7 +5,8 @@ end
 def using_sort(array)
  array = ["wow" , "wow"]
  array.sort
- sprted.array = 
+ sorted.array = array.sort
+ puts sorted.array
 end
 
 def using_reverse(array)
