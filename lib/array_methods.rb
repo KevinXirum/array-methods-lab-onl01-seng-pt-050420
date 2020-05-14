@@ -9,6 +9,7 @@ end
 
 def using_reverse(array)
   words = ["wow" , "arrays!"]
+  words.reverds!
 end
 
 def using_first(array)
