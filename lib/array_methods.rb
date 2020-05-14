@@ -5,7 +5,7 @@ end
 def using_sort(array)
  array = ["wow" , "wow"]
  array.sort
- 
+ sprted.array = 
 end
 
 def using_reverse(array)
