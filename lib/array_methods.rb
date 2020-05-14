@@ -6,7 +6,7 @@ def using_sort(array)
  words = ["wow" , "xenomorph"] 
  words.sort
  sorted_words = words.sort
- 
+ puts sorted_words
 end
 
 def using_reverse(array)
