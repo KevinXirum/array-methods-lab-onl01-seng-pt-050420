@@ -23,5 +23,5 @@ def using_last(array)
 end
 
 def using_size(array)
-  cars = ["R34" , "GT500"]
+  cars = ["R34" , "GT500" , "RX7" , "Supra" , "Charger" , ""]
 end
