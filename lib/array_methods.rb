@@ -4,7 +4,7 @@ end
 
 def using_sort(array)
  words = ["wow" , "xenomorph"]
- words.sort
+ sort
  sorted.words = words.sort
  puts sorted.words
 end
