@@ -19,7 +19,7 @@ end
 
 def using_last(array)
   words = ["wow" , "arrays!"]
-  woords.last
+  words.last
 end
 
 def using_size(array)
