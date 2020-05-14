@@ -14,7 +14,7 @@ end
 
 def using_first(array)
   words = ["wow" , "a" , "xenomorph"]
-  
+  words.first
 end
 
 def using_last(array)
