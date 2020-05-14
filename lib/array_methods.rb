@@ -3,10 +3,8 @@ def using_include(array, element)
 end
 
 def using_sort(array)
- words = ["wow" , "xenomorph"]
- sort
- sorted.words = words.sort
- puts sorted.words
+ words = ["wow" , "xenomorph"] 
+ 
 end
 
 def using_reverse(array)
