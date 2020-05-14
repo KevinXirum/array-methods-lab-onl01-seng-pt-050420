@@ -4,7 +4,7 @@ end
 
 def using_sort(array)
  words = ["wow" , "zelda"] 
- sort!words
+ words.sort!
 end
 
 def using_reverse(array)
